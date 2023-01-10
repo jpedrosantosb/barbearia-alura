@@ -1,6 +1,7 @@
 # Projeto Alura HTML, CSS (Barbearia Alura)
 
-INTRODUÇÃO HTML e CSS
+Conteúdos abordados;
+
 - Utilizando as tags h1 e p, respectivamente título e paragrafo
 - Como dar destaque para algumas informações do texto, deixando-as em negrito, utilizando a tag strong
 - Como dar ênfase para algumas informações do texto, deixando-as em itálico, utilizando a tag em
@@ -37,5 +38,35 @@ INTRODUÇÃO HTML e CSS
 - Que o cabeçalho da página deve ter mais destaque
 - Que não é recomendado criar estilos usando tags
 	O ideal é usarmos classes para tudo
+- Links para outras páginas, sejam elas do nosso projeto ou páginas externas
+- Transformar o texto para ter todas as letras maiúsculas
+- Deixar o texto em negrito com CSS
+- Remover a decoração do texto
+- Remover os estilos que o navegador cria automaticamente
+- Posicionamentos static, relative e absolute dos elementos
+- Posicionamento de cabeçalho
+- tag main, para o conteúdo principal da nossa página
+- Criar listas complexas, com títulos, imagens e parágrafos
+- Utilizar o inline-block
+- Através do CSS, aplicar bordas nos elementos.
+	Diferentes tipos de bordas.
+- Algumas pseudo-classes CSS
+	hover, quando o usuário passa o cursor sobre o elemento
+	active, quando um elemento está sendo ativado pelo usuário
+- Mudar a cor do texto e/ou da borda de um elemento, quando o usuário passar o cursor sobre o mesmo
+- Mudar a cor da borda de um elemento, quando o mesmo estiver sendo ativado pelo usuário
+- tag footer, para o rodapé da página
+- Imagem de fundo em um elemento com CSS
+	Quando colocamos uma imagem de fundo em um elemento, o CSS, por padrão, copia e cola a imagem diversas vezes até ocupar todo o espaço do elemento
+- Tabela Unicode
+- Formulário em HTML
+- tag form
+- tag input, para a entrada de dados do usuário
+- tag <label>
+- conectar um input com o seu label
+- tipos de input
+	text e submit
+- label possui o display inline e o input possui display inline-block
+- Formulário estilizado com CSS
 
 ![image](https://user-images.githubusercontent.com/69656085/211182051-d5249041-2f7d-4d3b-b625-3070283a5b2e.png)
