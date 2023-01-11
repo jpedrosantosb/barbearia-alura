@@ -68,5 +68,12 @@ Conteúdos abordados;
 	text e submit
 - label possui o display inline e o input possui display inline-block
 - Formulário estilizado com CSS
+- Textarea para entradas de texto de mais de uma linha
+- input do tipo radio
+	Como agrupar vários input do tipo radio, impedindo que mais de um input seja selecionado
+- input do tipo checkbox
+- hierarquia no CSS
+- select, que é seletor, um campo de seleção de um item, e o option, que representa cada opção do seletor
+
 
 ![image](https://user-images.githubusercontent.com/69656085/211182051-d5249041-2f7d-4d3b-b625-3070283a5b2e.png)
