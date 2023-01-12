@@ -74,6 +74,23 @@ Conteúdos abordados;
 - input do tipo checkbox
 - hierarquia no CSS
 - select, que é seletor, um campo de seleção de um item, e o option, que representa cada opção do seletor
-
+- Tipos de inputs para celular: email, tel, number, password, date, datetime, month e search
+- Campo obrigatório através do atributo required
+- Sugestão de preenchimento para os campos, através do atributo placeholder
+- Opção marcada por padrão nos nossos input radio e checkbox, através do atributo checked
+- Como estruturar melhor o nosso código com fieldset e legend
+- Transições nos nossos elementos, com a propriedade CSS transition
+- Estilo do ponteiro do mouse
+	Quando passar por cima de determinado elemento, através da propriedade CSS cursor
+- Transformações nos elementos
+	Como aumentar proporcionalmente a escala de determinado elemento ou rotacioná-lo, através da propriedade CSS transform
+- Tabela em HTML
+- tag table, que representa a tabela
+- tag tr, que representa a linha da tabela
+- tag td, que representa a célula da tabela
+- tag thead, que representa o cabeçalho da tabela
+- tag tbody, que representa o corpo da tabela
+- tag th, que representa a célula do cabeçalho da tabela
+- tag tfoot, que representa o rodapé da tabela
 
 ![image](https://user-images.githubusercontent.com/69656085/211182051-d5249041-2f7d-4d3b-b625-3070283a5b2e.png)
