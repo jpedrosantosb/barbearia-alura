@@ -62,7 +62,7 @@ Conteúdos abordados;
 - Formulário em HTML
 - tag form
 - tag input, para a entrada de dados do usuário
-- tag <label>
+- tag label
 - conectar um input com o seu label
 - tipos de input
 	text e submit
@@ -92,5 +92,7 @@ Conteúdos abordados;
 - tag tbody, que representa o corpo da tabela
 - tag th, que representa a célula do cabeçalho da tabela
 - tag tfoot, que representa o rodapé da tabela
+- Flutuação dos elementos e como modificá-la, com a propriedade float do CSS
+- Propriedade clear do CSS (limpar o float)
 
 ![image](https://user-images.githubusercontent.com/69656085/211182051-d5249041-2f7d-4d3b-b625-3070283a5b2e.png)
