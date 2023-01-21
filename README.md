@@ -94,5 +94,7 @@ Conteúdos abordados;
 - tag tfoot, que representa o rodapé da tabela
 - Flutuação dos elementos e como modificá-la, com a propriedade float do CSS
 - Propriedade clear do CSS (limpar o float)
+- Fontes externas nas nossas páginas
+- Incorporar um mapa e vídeo à página
 
 ![image](https://user-images.githubusercontent.com/69656085/211182051-d5249041-2f7d-4d3b-b625-3070283a5b2e.png)
