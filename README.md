@@ -96,5 +96,6 @@ Conteúdos abordados;
 - Propriedade clear do CSS (limpar o float)
 - Fontes externas nas nossas páginas
 - Incorporar um mapa e vídeo à página
+- Background gradiente e Pseudo-elementos
 
 ![image](https://user-images.githubusercontent.com/69656085/211182051-d5249041-2f7d-4d3b-b625-3070283a5b2e.png)
